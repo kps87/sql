@@ -1,0 +1,31 @@
+examination	1	30	30
+cleaning	1	50	50
+bitewing x-rays	1	50	50
+periapical x-rays	1	50	50
+full-mouth, panorex x-rays	1	75	75
+fluoride treatments	0	75	75
+space maintainers	0	100	150
+tooth sealants 	1	100	150
+emergency care for pain relief	1	100	100
+amalgam fillings	1	70	70
+composite fillings	1	100	100
+sedative fillings	1	125	125
+routine tooth extractions	1	50	200
+root canal	0	300	2000
+periodontal scaling and root planing	0	50	300
+periodontal surgery 	0	1500	2500
+recementing dental crowns	0	100	200
+stainless steel (prefabricated) crowns	0	500	1500
+non-routine x-rays 	0	100	500
+dental crowns 	0	250	1000
+inlays and onlays	0	650	1200
+bridgework	0	1500	5000
+tooth implants	0	1000	1500
+impacted wisdom teeth removal	1	250	500
+complex oral surgery procedures	0	1500	10000
+anesthesia / sedation	1	200	400
+removable partial dentures	1	150	2500
+complete dentures	1	500	7500
+denture relines and rebases	1	350	500
+denture repair	1	60	200
+orthodontic treatment 	0	1000	5000
